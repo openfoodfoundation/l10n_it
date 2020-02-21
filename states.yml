@@ -1,0 +1,536 @@
+# Italy
+
+- name: Agrigento
+  country_id: '98'
+  id: '101'
+  abbr: AG
+
+- name: Alessandria
+  country_id: '98'
+  id: '102'
+  abbr: AL
+
+- name: Ancona
+  country_id: '98'
+  id: '103'
+  abbr: AN
+
+- name: Aosta
+  country_id: '98'
+  id: '104'
+  abbr: AO
+
+- name: Arezzo
+  country_id: '98'
+  id: '105'
+  abbr: AR
+
+- name: Ascoli Piceno
+  country_id: '98'
+  id: '106'
+  abbr: AP
+
+- name: Asti
+  country_id: '98'
+  id: '107'
+  abbr: AT
+
+- name: Avellino
+  country_id: '98'
+  id: '108'
+  abbr: AV
+
+- name: Bari
+  country_id: '98'
+  id: '109'
+  abbr: BA
+
+- name: Belluno
+  country_id: '98'
+  id: '110'
+  abbr: BL
+
+- name: Benevento
+  country_id: '98'
+  id: '111'
+  abbr: BN
+
+- name: Bergamo
+  country_id: '98'
+  id: '112'
+  abbr: BG
+
+- name: Biella
+  country_id: '98'
+  id: '113'
+  abbr: BI
+
+- name: Bologna
+  country_id: '98'
+  id: '114'
+  abbr: BO
+
+- name: Bolzano
+  country_id: '98'
+  id: '115'
+  abbr: BZ
+
+- name: Brescia
+  country_id: '98'
+  id: '116'
+  abbr: BS
+
+- name: Brindisi
+  country_id: '98'
+  id: '117'
+  abbr: BR
+
+- name: Cagliari
+  country_id: '98'
+  id: '118'
+  abbr: CA
+
+- name: Caltanissetta
+  country_id: '98'
+  id: '119'
+  abbr: CL
+
+- name: Campobasso
+  country_id: '98'
+  id: '120'
+  abbr: CB
+
+- name: Caserta
+  country_id: '98'
+  id: '121'
+  abbr: CE
+
+- name: Catania
+  country_id: '98'
+  id: '122'
+  abbr: CT
+
+- name: Catanzaro
+  country_id: '98'
+  id: '123'
+  abbr: CZ
+
+- name: Chieti
+  country_id: '98'
+  id: '124'
+  abbr: CH
+
+- name: Como
+  country_id: '98'
+  id: '125'
+  abbr: CO
+
+- name: Cosenza
+  country_id: '98'
+  id: '126'
+  abbr: CS
+
+- name: Cremona
+  country_id: '98'
+  id: '127'
+  abbr: CR
+
+- name: Crotone
+  country_id: '98'
+  id: '128'
+  abbr: KR
+
+- name: Cuneo
+  country_id: '98'
+  id: '129'
+  abbr: CN
+
+- name: Enna
+  country_id: '98'
+  id: '130'
+  abbr: EN
+
+- name: Fermo
+  country_id: '98'
+  id: '131'
+  abbr: FM
+
+- name: Ferrara
+  country_id: '98'
+  id: '132'
+  abbr: FE
+
+- name: Firenze
+  country_id: '98'
+  id: '133'
+  abbr: FI
+
+- name: Foggia
+  country_id: '98'
+  id: '134'
+  abbr: FG
+
+- name: Forli'
+  country_id: '98'
+  id: '135'
+  abbr: FO
+
+- name: Forli' Cesena
+  country_id: '98'
+  id: '136'
+  abbr: FC
+
+- name: Frosinone
+  country_id: '98'
+  id: '137'
+  abbr: FR
+
+- name: Genova
+  country_id: '98'
+  id: '138'
+  abbr: GE
+
+- name: Gorizia
+  country_id: '98'
+  id: '139'
+  abbr: GO
+
+- name: Grosseto
+  country_id: '98'
+  id: '140'
+  abbr: GR
+
+- name: Imperia
+  country_id: '98'
+  id: '141'
+  abbr: IM
+
+- name: Isernia
+  country_id: '98'
+  id: '142'
+  abbr: IS
+
+- name: La Spezia
+  country_id: '98'
+  id: '143'
+  abbr: SP
+
+- name: L'Aquila
+  country_id: '98'
+  id: '144'
+  abbr: AQ
+
+- name: Latina
+  country_id: '98'
+  id: '145'
+  abbr: LT
+
+- name: Lecce
+  country_id: '98'
+  id: '146'
+  abbr: LE
+
+- name: Lecco
+  country_id: '98'
+  id: '147'
+  abbr: LC
+
+- name: Livorno
+  country_id: '98'
+  id: '148'
+  abbr: LI
+
+- name: Lodi
+  country_id: '98'
+  id: '149'
+  abbr: LO
+
+- name: Lucca
+  country_id: '98'
+  id: '150'
+  abbr: LU
+
+- name: Macerata
+  country_id: '98'
+  id: '151'
+  abbr: MC
+
+- name: Mantova
+  country_id: '98'
+  id: '152'
+  abbr: MN
+
+- name: Massa Carrara
+  country_id: '98'
+  id: '153'
+  abbr: MS
+
+- name: Matera
+  country_id: '98'
+  id: '154'
+  abbr: MT
+
+- name: Messina
+  country_id: '98'
+  id: '155'
+  abbr: ME
+
+- name: Milano
+  country_id: '98'
+  id: '156'
+  abbr: MI
+
+- name: Modena
+  country_id: '98'
+  id: '157'
+  abbr: MO
+
+- name: Monza-Brianza
+  country_id: '98'
+  id: '158'
+  abbr: MB
+
+- name: Napoli
+  country_id: '98'
+  id: '159'
+  abbr: NA
+
+- name: Novara
+  country_id: '98'
+  id: '160'
+  abbr: NO
+
+- name: Nuoro
+  country_id: '98'
+  id: '161'
+  abbr: NU
+
+- name: Oristano
+  country_id: '98'
+  id: '162'
+  abbr: OR
+
+- name: Padova
+  country_id: '98'
+  id: '163'
+  abbr: PD
+
+- name: Palermo
+  country_id: '98'
+  id: '164'
+  abbr: PA
+
+- name: Parma
+  country_id: '98'
+  id: '165'
+  abbr: PR
+
+- name: Pavia
+  country_id: '98'
+  id: '166'
+  abbr: PV
+
+- name: Perugia
+  country_id: '98'
+  id: '167'
+  abbr: PG
+
+- name: Pesaro
+  country_id: '98'
+  id: '168'
+  abbr: PS
+
+- name: Pesaro Urbino
+  country_id: '98'
+  id: '169'
+  abbr: PU
+
+- name: Pescara
+  country_id: '98'
+  id: '170'
+  abbr: PE
+
+- name: Piacenza
+  country_id: '98'
+  id: '171'
+  abbr: PC
+
+- name: Pisa
+  country_id: '98'
+  id: '172'
+  abbr: PI
+
+- name: Pistoia
+  country_id: '98'
+  id: '173'
+  abbr: PT
+
+- name: Pordenone
+  country_id: '98'
+  id: '174'
+  abbr: PN
+
+- name: Potenza
+  country_id: '98'
+  id: '175'
+  abbr: PZ
+
+- name: Prato
+  country_id: '98'
+  id: '176'
+  abbr: PO
+
+- name: Ragusa
+  country_id: '98'
+  id: '177'
+  abbr: RG
+
+- name: Ravenna
+  country_id: '98'
+  id: '178'
+  abbr: RA
+
+- name: Reggio Calabria
+  country_id: '98'
+  id: '179'
+  abbr: RC
+
+- name: Reggio Emilia
+  country_id: '98'
+  id: '180'
+  abbr: RE
+
+- name: Rieti
+  country_id: '98'
+  id: '181'
+  abbr: RI
+
+- name: Rimini
+  country_id: '98'
+  id: '182'
+  abbr: RN
+
+- name: Roma
+  country_id: '98'
+  id: '183'
+  abbr: RM
+
+- name: Rovigo
+  country_id: '98'
+  id: '184'
+  abbr: RO
+
+- name: Salerno
+  country_id: '98'
+  id: '185'
+  abbr: SA
+
+- name: Sassari
+  country_id: '98'
+  id: '186'
+  abbr: SS
+
+- name: Savona
+  country_id: '98'
+  id: '187'
+  abbr: SV
+
+- name: Siena
+  country_id: '98'
+  id: '188'
+  abbr: SI
+
+- name: Siracusa
+  country_id: '98'
+  id: '189'
+  abbr: SR
+
+- name: Sondrio
+  country_id: '98'
+  id: '190'
+  abbr: SO
+
+- name: Taranto
+  country_id: '98'
+  id: '191'
+  abbr: TA
+
+- name: Teramo
+  country_id: '98'
+  id: '192'
+  abbr: TE
+
+- name: Terni
+  country_id: '98'
+  id: '193'
+  abbr: TR
+
+- name: Torino
+  country_id: '98'
+  id: '194'
+  abbr: TO
+
+- name: Trapani
+  country_id: '98'
+  id: '195'
+  abbr: TP
+
+- name: Trento
+  country_id: '98'
+  id: '196'
+  abbr: TN
+
+- name: Treviso
+  country_id: '98'
+  id: '197'
+  abbr: TV
+
+- name: Trieste
+  country_id: '98'
+  id: '198'
+  abbr: TS
+
+- name: Udine
+  country_id: '98'
+  id: '199'
+  abbr: UD
+
+- name: Varese
+  country_id: '98'
+  id: '200'
+  abbr: VA
+
+- name: Venezia
+  country_id: '98'
+  id: '201'
+  abbr: VE
+
+- name: Verbania
+  country_id: '98'
+  id: '202'
+  abbr: VB
+
+- name: Vercelli
+  country_id: '98'
+  id: '203'
+  abbr: VC
+
+- name: Verona
+  country_id: '98'
+  id: '204'
+  abbr: VR
+
+- name: Vibo Valentia
+  country_id: '98'
+  id: '205'
+  abbr: VV
+
+- name: Vicenza
+  country_id: '98'
+  id: '206'
+  abbr: VI
+
+- name: Viterbo
+  country_id: '98'
+  id: '207'
+  abbr: VT
